@@ -33,4 +33,4 @@ Please do visualizations following the procedure:
 Notice, that since the moving trajectory of the UEs is randomly generated, there is no guarantee that the visualizations can be reproduced the same.  
 
 ## Questions
-If you have any questions, please feel free to reach me at: johnny.han@mail.utoronto.ca
+If you have any questions, please feel free to reach me at: h.han.working@gmail.com
